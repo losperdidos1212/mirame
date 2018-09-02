@@ -48,7 +48,39 @@
 <title><![CDATA[ 2x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg"/>]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/VerPaquitaSalas1x02M720pCastMkv/VerPaq2x01M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 2x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/VerPaquitaSalas1x02M720pCastMkv/VerPaq2x02M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 2x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/VerPaquitaSalas1x02M720pCastMkv/VerPaq2x03M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 2x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/VerPaquitaSalas1x02M720pCastMkv/VerPaq2x04M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[ 2x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/VerPaquitaSalas1x02M720pCastMkv/VerPaq2x05M720pMkv.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
