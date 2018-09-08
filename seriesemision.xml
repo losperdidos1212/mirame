@@ -621,7 +621,7 @@
 <channel>      
 <title><![CDATA[Paquita salas T1-T2]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg />]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/paquita_salas_tv_series-246815366-mmed.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/paquita.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
