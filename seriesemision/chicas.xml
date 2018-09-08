@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>Chicas del cable>> Temporada 1-2</playlist_name>
+ <playlist_name>Chicas del cable>> Temporada 1-2-3</playlist_name>
  
 <channel>
 <title><![CDATA[ T1 1 - Los sueños]]></title>
@@ -131,9 +131,73 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
+<channel>
+<title><![CDATA[3x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
  
-
+<channel>
+<title><![CDATA[3x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[3x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/hIhmxezq6V-0xiFlrhf55B86LElDhFDQr0eKRuI_9XTMJvl9g228rRq0FON95l5hRiTXVISp2XaQpa84z_q9eLwhlRLL2mWl_1xd_PLLqrFzmMIqh4iwokBM7o-_eHAIB2orAV0ryEKHrGDumVFQXft6NoADLBi8trJgg6XPFsFHNHTlYxRq_YaWtuEn7mbRccXnxcNuMbBOa4tM81ndazaOYFvxHrF_fLI6qG10nBKsHR8pJ0VwPh4lvtF47_OiG_RGFZii0JZhDA2y3g0uv434BD6m-vxEGyjj0Cjinjy_-uUpedKCeI5g4fZxgfL6QA-CrO7Sxz5ina_skfNw5qa76sPjPt5Up2niPQYyYer2qeiv7DIRfaxyxw3_6ZuNrKCwQPBQXAMm4C6KBYfRRSTmgJOamTDbPX4J5KzVfcBN2S4vBn5z7HDlTc3IyjKDf3gHqDbORgc5rwNaUNn5cfImWl4ylXlWVpe_4hFarBxeeU_a44xVJHY5dvKVXRjJHixbZKYSkcnFY8HoZ8Hg01Y5FJuDO5hn7zGy9M5Bbjq8mGjQ4VPc-jfIO_yBloIxMIieED_1qTwin6xJsJ8kJvLfTjarr-RzEq6Hz9o=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
  
  
