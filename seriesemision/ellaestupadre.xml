@@ -8,7 +8,7 @@
 <title><![CDATA[Capitulo 1x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/9qeogqczu58w]]></stream_url>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/11OWVqYzE6bD9PO2zy7lexEJh0UAvYe6/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
@@ -16,7 +16,7 @@
 <title><![CDATA[Capitulo 1x02]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/tgymw1sodta7]]></stream_url>
+<stream_url><![CDATA[]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
@@ -64,9 +64,40 @@
 <title><![CDATA[Capitulo 1x08]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
-<stream_url><![CDATA[http://streamcloud.eu/guohcg8g8q8g]]></stream_url>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/FpM2lzZDE6lL6nqle1OChdqEPAiFXIY-/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+<channel>
+<title><![CDATA[Capitulo 1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/9nM2lzZDE6ZByp-fDnv5JG_YQEydgUzR/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Zsbm41ZzE6vBgCw6XHz5xi0lsZdp4Yo8/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x11]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_60c4699df0971ec2590ba2feb78edf43.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/c2cnM1ZzE6RSPgisGg6-3saEQ0SdIue9/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
