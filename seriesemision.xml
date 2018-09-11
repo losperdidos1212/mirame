@@ -870,7 +870,13 @@
 </channel>
  
 
- 
+ <channel>       
+<title><![CDATA[Zacky Cody T1 T2 T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/a8b2d014befe02a6abeb80e1c958132a.gif">  ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/zacky.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
