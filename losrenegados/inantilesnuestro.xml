@@ -205,15 +205,6 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[Toy Story el tiempo perdido 2014 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/gzSHEBrx9n7yxSwN446WwPv7adu.jpg" />Durante un día de juegos después de navidad, la pandilla de juguetes de Bonnie se encuentran en un territorio desconocido repleto de figuras de acción. La protagonista será Trixie, la triceratops, y será la responsable de que los juguetes regresen a su hogar.]]></description>
-<stream_url><![CDATA[https://lh3.googleusercontent.com/rq-_7giF4YJhfVlRzxDdHi1nPitk1VOsTSFXP3uWe_tcT3OKxPcbMyUc3luGB_OQpxHRJtwm8YqkLIPSYKX_j0JAgSjJXloY3zTlOLVvWUzhwjgi99eQ5UuDdVZK18NFqErKRgg6_wSk-aOkTcns_toZL8Sea5e45xJJMLAEDa_od1l9WvfdyEK3uovLpgvFPaY7RtGIJJq0Ift1mz0vU4KrTueDUPeQ6qiBvSFcQH2jnT76UQ69PzuDRFAtPtVRo_Y6hGQIrmP__0ZqGfbHskR8RzxeKUqxU2g8kfFxsW1ZnF1R_NZhXKq4fHlFlh1imOTQJZEhwzMuVM71yuNikylh2sB5sFNKyg5V0jNW_sy37gJyvQV1w0Ia99K2qMalN0Tw3-qmlIwz1R6hNJ0RTsJVhhabtkMFPlUrhJsoGWDdpnyQsqDSeCf8fGbYQ9zQ9b-BbrJTz1_k5SdZJcZp42xdYQcD16nhO7nO8hTcW4xBb2oxsIku2zeY46YeY8Q3qXYdzOlkeQCbd7bCVih5i8O9JTugo35WeDU8CL3C8sFpJR29_NdZRuDFhH2HF-kTajJDRYsXCgzQjU6wk36ALnEwk_emQMdPzf7_HEM=m37]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-
 
 <channel>
 <title><![CDATA[Buda El gran viaje 2011 ]]></title>
@@ -444,16 +435,6 @@
 
 
 <channel>
-<title><![CDATA[Trolls Holiday 2017 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD.jpg" />Cuando la Reina de los Trolls, Poppy, descubre que los Bergens no tienen vacaciones, pide ayuda a sus amigos, Branch y Snack Pack, para ayudarla a llevar sus vacaciones a Bergens.]]></description>
-<stream_url><![CDATA[https://lh3.googleusercontent.com/tn5Y-g4WV-mJn4CfZExDIAPBQ9BYoBdSE5R2oFt14W7Sxf5asR2aadje7f_pidgA52mYpHRowkT1pjb0h0zBW4HR9BPEQ8IaHMbkXq7gbpxSOEfFXlp-mxF_7IZi5VRP9gGRQG0bQLwFO3KkXioITLXJkXS3jC8zpRFZgy7_gBL42XXMfYh9HGJ9E0tDbQVZcOOQbvrB_RXknYhw_2Krdcm5zRjC15N0eONWDWpfiGBk0k4QaePjHE5k20oW6p50YjwibCgyBteK4A5JpC1pZ_3UdCHhumvKowvPZmsxLeAbeU1RzDfMn7VpFEV8aioZUGNJ6yJLO-uoxxdddHy0MeF-18jZEKzIzYvbNbvJuok_ZKXoaX1CogQDtBPLqi9rMDTNob9srMb0WXDKbuiXO0Jy-A-tOlym8qm5Ck-YcVN1nJCPMPI6UiQMpYpuzXYVkpxnzpZ4N27V8RkrJRL_5OPInVTHQbVmgCIS80DAGNM7ZiRSlJb2niUT4eU9cO9-6Uc-P-4zzUwYVeDcA1o8tKYGq3vCEv8hFfunrU__iOoNP_fSSMUrfEBv75er_1X0D22HJniejQ-grDrnkxpeFpVauQ_K7VwjPOFklS7Yig=m37]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-
-
-<channel>
 <title><![CDATA[El niño y la bestia 2015 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/mU8C6uiwGjzzzmD1iedRw4iS5GZ.jpg" />Kyuta, un niño solitario que vive en el mundo de los humanos, y Kumatetsu, una bestia solitaria que vive en un mundo fantástico establecen una relación de maestro-aprendiz que se irá fortaleciendo con el tiempo. Superando su soledad, se darán cuenta cuánto se necesitan mutuamente.]]></description>
@@ -516,6 +497,57 @@
 <stream_url><![CDATA[https://archive.org/download/animadoa/AliciaEnElPaisDeLasMaravillasAntonio7443animadoa.mp4]]></stream_url>
 <buffer_kb>20480</buffer_kb>
 </channel>
+	
+	
+	<channel>
+<title><![CDATA[Toy Story el tiempo perdido 2014 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/gzSHEBrx9n7yxSwN446WwPv7adu.jpg" />Durante un día de juegos después de navidad, la pandilla de juguetes de Bonnie se encuentran en un territorio desconocido repleto de figuras de acción. La protagonista será Trixie, la triceratops, y será la responsable de que los juguetes regresen a su hogar.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/rq-_7giF4YJhfVlRzxDdHi1nPitk1VOsTSFXP3uWe_tcT3OKxPcbMyUc3luGB_OQpxHRJtwm8YqkLIPSYKX_j0JAgSjJXloY3zTlOLVvWUzhwjgi99eQ5UuDdVZK18NFqErKRgg6_wSk-aOkTcns_toZL8Sea5e45xJJMLAEDa_od1l9WvfdyEK3uovLpgvFPaY7RtGIJJq0Ift1mz0vU4KrTueDUPeQ6qiBvSFcQH2jnT76UQ69PzuDRFAtPtVRo_Y6hGQIrmP__0ZqGfbHskR8RzxeKUqxU2g8kfFxsW1ZnF1R_NZhXKq4fHlFlh1imOTQJZEhwzMuVM71yuNikylh2sB5sFNKyg5V0jNW_sy37gJyvQV1w0Ia99K2qMalN0Tw3-qmlIwz1R6hNJ0RTsJVhhabtkMFPlUrhJsoGWDdpnyQsqDSeCf8fGbYQ9zQ9b-BbrJTz1_k5SdZJcZp42xdYQcD16nhO7nO8hTcW4xBb2oxsIku2zeY46YeY8Q3qXYdzOlkeQCbd7bCVih5i8O9JTugo35WeDU8CL3C8sFpJR29_NdZRuDFhH2HF-kTajJDRYsXCgzQjU6wk36ALnEwk_emQMdPzf7_HEM=m37]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+	<channel>
+<title><![CDATA[Toy Story 1 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/0a3093472477350138b1760d9f92c226.gif" />Los juguetes de Andy, un nino de 6 anos, temen que haya llegado su hora y que un nuevo regalo de cumpleanos les sustituya en el corazon de su dueno. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un heroe espacial dotado de todo tipo de avances tecnologicos. Woody es relegado a un segundo plano. Su constante rivalidad se transformara en una gran amistad cuando ambos se pierden en la ciudad sin saber como volver a casa.]]></description>
+<stream_url><![CDATA[https://archive.org/download/animas/to1y-st1o1ry.avi.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+	<channel>
+<title><![CDATA[Toy Story 2 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/c7219db3bd92572b62b77d61d7e552cf.gif" />Cuando Andy se va de campamento dejando solos a los juguetes, Al McWhiggin, un compulsivo coleccionista de juguetes valiosos, secuestra a Woody. Buzz Lightyear y los demas juguetes tendrán que actuar con rapidez si quieren rescatarlo. Durante la operacion de rescate no solo tendran que afrontar múltiples peligros, sino que tambien viviran divertidas situaciones.]]></description>
+<stream_url><![CDATA[https://archive.org/download/animadoa/T2oy_st2ory_2.avi.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+	
+<channel>
+<title><![CDATA[Toy Story 3 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/12e40032ac306445f371574921d9fffa.gif" />Cuando su dueno Andy se prepara para ir a la universidad, el vaquero Woody, el astronauta Buzz y el resto de sus amigos juguetes comienzan a preocuparse por su incierto futuro. Efectivamente todos acaban en una guarderia, donde por ejemplo la muneca Barbie conocera al guapo Ken. Esta reunion de nuestros amigos con otros nuevos juguetes no sera sino el principio de una serie de trepidantes y divertidas aventuras.]]></description>
+<stream_url><![CDATA[https://archive.org/download/animas/To3y.Sto3ry.avi.mp4]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
+	
+	
+		
+	<channel>
+<title><![CDATA[Shrek 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/d78c4c9487545d0572808b158b391e6b.gif"/>]]>Hace mucho tiempo, en una lejanisima cienaga, vivia un feroz ogro llamado Shrek.De repente, un dia, su soledad se ve interrumpida por una invasion de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malisimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante mision le acompana un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.</description>
+<stream_url><![CDATA[https://archive.org/download/animas/Sh1r1ek11.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
 	
 	
 
