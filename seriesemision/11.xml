@@ -28,6 +28,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[prueba2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/081027014637632861110950e799a019.gif"/>]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
  
  
