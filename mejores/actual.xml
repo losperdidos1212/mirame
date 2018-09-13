@@ -29,6 +29,70 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+<channel>       
+<title><![CDATA[PELICULAS A]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/a.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+ <channel>       
+<title><![CDATA[PELICULAS B]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/b.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  <channel>       
+<title><![CDATA[PELICULAS C]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/c.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+<channel>       
+<title><![CDATA[PELICULAS D]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/d.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+<channel>       
+<title><![CDATA[PELICULAS E]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/e.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  <channel>       
+<title><![CDATA[PELICULAS F]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/f.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+<channel>       
+<title><![CDATA[PELICULAS G]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/g.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
