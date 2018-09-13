@@ -11,4 +11,15 @@
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[]]></stream_url>
 <description><![CDATA[<img src=""/>]]> </description>
-</channel>	
+</channel>
+	
+<channel>
+<title><![CDATA[Batman vs Superman 2016]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.imgbox.com/Q7Ent9oE.jpg" />]]>Crossover de los personajes Superman y Batman, anunciado en la Comic Con 2013 por el propio director Zack Snyder. Será una secuela de "El hombre de acero", aunque además de Superman aparecerán Batman y Wonder Woman</description>
+<stream_url><![CDATA[https://archive.org/download/Penguins_20180622/Bat9mvsSup4erma4n.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
