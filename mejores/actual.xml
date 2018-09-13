@@ -133,7 +133,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>      
   
-  
+ <channel>       
+<title><![CDATA[PELICULAS N]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/n.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>    
   
   
   
