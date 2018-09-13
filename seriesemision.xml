@@ -669,6 +669,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>       
+<title><![CDATA[Mr Roboot T1 T2 T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/7d796c56f777b8daf19eb73493f44091.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/roboot.mxl]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 <channel>       
 <title><![CDATA[Station 19 T1]]></title>
 <logo_30x30></logo_30x30>
