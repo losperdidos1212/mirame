@@ -23,14 +23,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
+
  
-<channel>       
+  
+  <channel>       
 <title><![CDATA[SALA CINE SOMOS LOS MEJORES Y ALFABETICAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/02ee50ad80f1e21f6923cdfd1df38480.gif"]]>Aqui estan las peliculas por orden alfabetico</description>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/02ee50ad80f1e21f6923cdfd1df38480.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
-</channel> 
+</channel>
+  
+  
+  
   
   
 <channel>       
@@ -53,7 +58,7 @@
 <channel>       
 <title><![CDATA[TV AUTONOMICAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/bdc869028c34f5d530d70f7c6a8760b9.gif">Aqui encontraras todo ordenado alfabeticamente]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic86/bdc869028c34f5d530d70f7c6a8760b9.gif">Aqui encontraras la TV Autonomicas]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/autonom%C3%ADcas.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
