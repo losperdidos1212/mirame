@@ -27,7 +27,7 @@
 <channel>       
 <title><![CDATA[SALA CINE SOMOS LOS MEJORES Y ALFABETICAS]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/02ee50ad80f1e21f6923cdfd1df38480.gif"]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/02ee50ad80f1e21f6923cdfd1df38480.gif"]]>Aqui estan las peliculas por orden alfabetico</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
