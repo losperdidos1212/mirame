@@ -34,10 +34,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
- 
+  <channel>       
+<title><![CDATA[SALA CINE 4K]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/86e7e44cc0e029dfb8814a5bad5ac027.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/4K/menu4k.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
-
+  
   
  <channel>       
 <title><![CDATA[SALA CINE HD-3D]]></title>
