@@ -12,13 +12,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
-  <channel>       
-<title><![CDATA[PELIS 1900-1999]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic88/e68bdef4ccbe03d3d4f61daaf42a1412.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/cineclasico.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+  
   
   
   <channel>       
