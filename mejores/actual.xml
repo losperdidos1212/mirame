@@ -118,6 +118,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>      
   
+  
+  <channel>       
+<title><![CDATA[PELICULAS numericas]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/eedfcf82177ed3c0305db1924766f520.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/numéricas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>      
+  
+  
+  
+  
+  
  <channel>       
 <title><![CDATA[PELICULAS N]]></title>
 <logo_30x30></logo_30x30>
