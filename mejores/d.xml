@@ -94,6 +94,16 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+	<channel>
+<title><![CDATA[Duerme pequeña (2017) drama]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/wz9vg2qj1pv_poster.jpg" />James y Lauren trabajan muchas horas y deciden contratar como canguro a su joven vecino Owen. La pareja no puede estar más feliz, ya que el chico parece la persona ideal para cuidar de su retoño. Sin embargo, poco a poco Owen va adquiriendo más protagonismo en el hogar familiar, cruzando la frontera de sus tareas asignadas e interponiéndose entre el ya frágil matrimonio de James y Lauren.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/5jM2JzYzE66mhbu_dudLxOLFddgfBfab/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+	
+	
 	
 <channel> 
 <title><![CDATA[dona clara 2016 drama]]></title>
