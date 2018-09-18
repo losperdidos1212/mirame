@@ -23,9 +23,21 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+
+	
+<channel>
+<title><![CDATA[10.0 Terremoto en Los Angeles (2014) accion ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/orOKr1k4lmLAn1FNcgJjjdhjkiB.jpg" />Una geóloga asegura que Los Ángeles está a punto de ser golpeada por un devastador terremoto de intensidad 10. El tiempo se acaba para salvar la ciudad del peligro inminente.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/Z4YmV4NzE6wfqKxKG3rWYUeebH5mN2aW/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel>
+
+	
+	
 	
 <channel> 
-<title><![CDATA[24 Horas Para Vivir 2017 cienciaficcion]]></title>
+<title><![CDATA[24 Horas Para Vivir 2017 ciencia ficcion]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/00c74cafa285e640931c3a5d9f00d85c.gif" />]]>Un asesino busca redimirse tras recibir una segunda oportunidad en la vida. Para conseguirlo solo contara con 24 horas.</description> 
 <stream_url><![CDATA[https://archive.org/download/100ficcio/24Hor2asPa4raVi2vir.mp4]]></stream_url>
