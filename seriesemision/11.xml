@@ -48,6 +48,18 @@
 </channel>
  
  
+ <channel>
+<title><![CDATA[prueba amc2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/081027014637632861110950e799a019.gif"/>]]></description>
+<stream_url><![CDATA[https://drive.google.com/file/d/1HBF_KLFD8Y41UR-BLyyHgwswM8xKFQKW/view]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
