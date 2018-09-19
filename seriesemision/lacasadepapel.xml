@@ -7,7 +7,7 @@
 <title><![CDATA[1x01 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Cas2ap2apel1x01.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -16,7 +16,7 @@
 <title><![CDATA[1x02 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Cas2a4papel1x02.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -25,7 +25,7 @@
 <title><![CDATA[1x03 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Ca1sa8papel103.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -34,7 +34,7 @@
 <title><![CDATA[1x04 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Ca1sap5apel1x04.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -43,7 +43,7 @@
 <title><![CDATA[1x05 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Cas1apap5el1x05.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -52,7 +52,7 @@
 <title><![CDATA[1x06 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Cas6apap1el1x06.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -61,7 +61,7 @@
 <title><![CDATA[1x07 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Ca1sa1papel1x07.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
@@ -70,7 +70,16 @@
 <title><![CDATA[1x08 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Cas1ap6apel1x08.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+   <channel>
+<title><![CDATA[1x09 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.atresplayer.com/clipping/2017/04/30/00244/706.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/papel_20180919/Casa2pap3el1x09.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
