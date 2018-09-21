@@ -98,6 +98,17 @@
 </channel>
  
  
+<channel>       
+<title><![CDATA[BlueBloods T1 a T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/familia-de-policias-blue-bloods_h04nrgc7fpe2016-03-24.jpg">En el estreno de la temporada 7, Evidence against Danny surge cuando la oficina del fiscal general revisa su tiroteo de un asesino en serie. Mientras tanto, Jamie y Eddie tratan con un conductor borracho de alto perfil; Y la viuda de un policÃ­a muerto le pide a Frank un favor]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/bluebloods.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
   <channel>       
 <title><![CDATA[Dragon ball Temporada 1]]></title>
