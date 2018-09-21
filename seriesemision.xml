@@ -52,13 +52,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[anarquia ]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/c35fc83fcce330dabd0c320caeb2de83.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/anarquia.xml ]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  
  <channel>       
@@ -92,14 +86,7 @@
  
  
  
-  <channel>       
-<title><![CDATA[BlueBloods T1 a T8]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/familia-de-policias-blue-bloods_h04nrgc7fpe2016-03-24.jpg">En el estreno de la temporada 7, Evidence against Danny surge cuando la oficina del fiscal general revisa su tiroteo de un asesino en serie. Mientras tanto, Jamie y Eddie tratan con un conductor borracho de alto perfil; Y la viuda de un policÃ­a muerto le pide a Frank un favor]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/bluebloods.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+
   
  
  <channel>      
@@ -121,21 +108,8 @@
 </channel>
  
  
- <channel>       
-<title><![CDATA[Britannia T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/-britannia_64wqw0yd8fj2018-01-20.jpg">]]>Secuela de la serie "1992". La serie sigue las vivencias de los personajes donde las dejo su precuela, teniendo como trasfondo los principales eventos que marcaron la vida publica italiana durante el ano que da nombre a la serie: el proceso ENIMONT, la caida politica de Bettino Craxi y del Partido Socialista Italiano, los atentados mafiosos en Florencia, Roma y Milan, los referendums abrogativos, el final de la Primera Republica y la entrada en politica de Silvio Berlusconi.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Britannia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
-<channel>       
-<title><![CDATA[castle de T1 a T8]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://3.bp.blogspot.com/-Hb4p-5lGjqg/UiNdz2HhCdI/AAAAAAAADJQ/kVXSdzcCEL4/s1600/Castle+Serie+de+televisi%C3%B3n.JPG">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/castle.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
+
 
  
 
@@ -149,13 +123,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>      
-<title><![CDATA[ Chicago Fire T4 T5]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/chicago-fire_7e3v79h20wo2016-03-24.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/chicagofire.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
  
@@ -177,21 +144,9 @@
 </channel> 
 
 
- <channel>       
-<title><![CDATA[cuerpo de elite T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/cuerpo-de-elite_76fgzo46af02018-02-06.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/cuerpodeelite.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
 
- <channel>       
-<title><![CDATA[El accidente T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-accidente_qw9yg9lx81v2017-11-28.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/accidente.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  <channel>       
 <title><![CDATA[el cuento de la criada T1 T2]]></title>
@@ -222,14 +177,6 @@
 
  
 
- 
-<channel>      
-<title><![CDATA[ El incidente]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-incidente_ln6j9148l8r2017-09-05.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/el%20incidente.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
 
  <channel>       
 <title><![CDATA[El barco T1-T3]]></title>
@@ -239,13 +186,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
- <channel>       
-<title><![CDATA[El continental T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/el_continental_tv_series-776416301-mmed.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/continental.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
+ 
  
  
  
@@ -259,14 +200,6 @@
  
  
 
- 
- <channel>      
-<title><![CDATA[ Ella es tu padre T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/ella-es-tu-padre_bu32tzlgf1e2017-09-04.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ellaestupadre.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
 <channel>       
 <title><![CDATA[ El principe T1 yT2]]></title>
@@ -287,14 +220,6 @@
  
  
  
-<channel>      
-<title><![CDATA[ El tirador  T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/shooter_ypd762sf4t32016-11-04.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicÃ³loga y criminÃ³loga que ha trabajado en el FBI y para la policÃ­a nacional sueca. Se ve involucrada en la investigaciÃ³n de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policÃ­a nacional envÃ­a al detective Ingvar Nyman </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/eltirador.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
  
  
 
@@ -306,14 +231,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[Expediente X T11]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/expediente-x_b4yk0t8dz312016-03-24.jpg"/>]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/expedientex.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
+ 
 
 <channel>       
 <title><![CDATA[Flash point T1-T2]]></title> 
@@ -343,14 +261,7 @@
  
  
  
- 
- <channel>       
-<title><![CDATA[ Fugitiva T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/8dd4c4c934490d766949a662f2d9eb62.gif">]]>Magda (Paz Vega), una mujer que en un momento crucial de su vida ve como su mundo estalla en pedazos, se ve obligada a sacar a su familia de una situación limite.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/fugitiva.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Hawai 5.0 T1 a T8]]></title>
@@ -418,15 +329,6 @@
  </channel>
  
  
-  <channel>       
-<title><![CDATA[izombie T4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/0c5542e21270e315e4a2d9c3a4a51e51.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/izombie.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
  
  
  
@@ -450,22 +352,7 @@
  
  
  
-<channel>       
-<title><![CDATA[La que se avecina T10]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-que-se-avecina_3xpm43cnp0c2016-04-05.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/laqueseavecinat10.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
 
- <channel>       
-<title><![CDATA[La casa de papel T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-casa-de-papel_q8nai4ocohx2017-05-02.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/lacasadepapel.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
  <channel>       
@@ -478,13 +365,7 @@
  
 
 
-<channel>       
-<title><![CDATA[la otra mirada t1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/1395cd2012036cb558b948caed435bb6.gif">]]>Historia de mujeres valientes en una academia para senoritas en la sevilla de los anos 20 un centro de ensenanza aferrado a las tradiciones propias de una capital en la epoca de entreguerras.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/laotramirada.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
  
  
   <channel>       
@@ -506,13 +387,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- <channel>       
-<title><![CDATA[Ley y orden true crime T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/law-andamp-order-true-crime-the-menendez-murders_ywzmlsyjin92017-09-28.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/leyorden.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ <
  
  
  
@@ -536,14 +411,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  <channel>      
-<title><![CDATA[Los Pasajeros del Tiempo T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/time-after-time_y67l0jjrmlx2017-03-07.jpg" />]]>Time After Time serie de FantasÃ­a y Ciencia Ficcion, La serie narra dos amigos encuentran una viciosa capsula del tiempo, Ambos dispuesto a usarlas, Sucede una traiciÃ³n de Dr. John Stevenson sobre un asesinato, Donde John huye con la capsula, mientras H.G. Wells ingresa a la capsula para dar un viaje inesperado a un mundo donde nunca pudo imaginarse, Su Ãºnico objetivo es atrapar su ex amigo asesino. Pero en su viaje conoce a una bella dama que le harÃ¡ recorrer el mundo actual. </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Los%20Pasajeros%20del%20Tiempo%20-%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
+ 
 <channel>      
 <title><![CDATA[Los serrano]]></title> 
 <logo_30x30></logo_30x30> 
@@ -565,13 +433,7 @@
  
 
 
- <channel>       
-<title><![CDATA[Matar al padre T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/matar-al-padre_4wnjelqkfqr2018-05-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/matarpadre.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  <channel>       
@@ -586,22 +448,8 @@
  
 
  
- <channel>       
-<title><![CDATA[Mentes Criminales T13]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/mentes-criminales_xkp1fkvxfbj2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/mentes.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
- <channel>      
-<title><![CDATA[Midnight texas T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/midnight-texas_2zv7jo4fhdp2017-07-25.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/texas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
   
@@ -625,23 +473,9 @@
 </channel>
   
  
-<channel>      
-<title><![CDATA[Paquita salas T1-T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://i.picasion.com/pic88/cf44bebd78662db15e0c0145e028b514.gif"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/paquita.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
-   
 
-  <channel>      
-<title><![CDATA[Perdoname senor T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/perdoname-senor-tv_v38cpenfhrp2017-05-24.jpg" />]]>Miniserie de TV (8 episodios). Cuenta la historia de LucÃ­a (Paz Vega), una monja que decide volver a CÃ¡diz, su tierra natal, para resolver asuntos pendientes de su pasado. AllÃ­ descubrirÃ¡ que el trÃ¡fico de drogas ha aumentado notablemente en la zona, asÃ­ que intentarÃ¡ poner fin a este negocio ilegal. Para ello se enfrentarÃ¡ al lÃ­der de la mafia de la droga, Bruno (Stany Coppet), su gran amor de juventud. Mientras tanto intentarÃ¡ alejar a su sobrino Rafa de este mundo, a la vez que se enfrenta a complicados ...  </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/perdonamesenor.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+  
 
  
  
@@ -667,13 +501,6 @@
  
  
 
- <channel>       
-<title><![CDATA[Riverdale T1 T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/riverdale_8bk0eiyu7li2017-01-28.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/riverdale.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  <channel>       
 <title><![CDATA[Mr Roboot T1 T2 T3]]></title>
@@ -684,14 +511,7 @@
 </channel>
  
  
- 
-<channel>       
-<title><![CDATA[Station 19 T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/station-19_n640rwhqg5e2018-04-05.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/station.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Star trek discovery T1]]></title>
@@ -730,35 +550,9 @@
 </channel>
  
 
- 
-
-
 
  
- <channel>       
-<title><![CDATA[Servir y proteger T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/servir-y-proteger_j4r8jjtd2ks2017-04-26.jpg">  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/servir%20proteger.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
-<channel>       
-<title><![CDATA[S.W.A.T T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/swat_6vrej4hf31e2017-11-04.jpg">In the wake of Pied Piperas clickfarm scandal, the guys struggle to find funding for Pied Piperâs video-chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Headâs dad, while Gavin balks after Jack steps on his toes at Hooli. Having a hard time adjusting to his companyâs pivot, Richard gets sage advice from an unexpected source, leading him to a big idea that could change his future. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/swat.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
-<channel>       
-<title><![CDATA[Traicion T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/traicion-_vewpfcimxft2017-11-28.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/traicion.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+
  
 <channel>       
 <title><![CDATA[True detective T1-T2]]></title>
@@ -769,22 +563,8 @@
 </channel> 
  
 
- <channel>       
-<title><![CDATA[The Blacklist t5]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-blacklist_ksn5zm9i1sm2016-03-24.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/theblacklist.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
  
- <channel>       
-<title><![CDATA[The Good doctor t1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-good-doctor_lw6p1i0znhb2017-09-27.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/doctor.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
 
 
@@ -817,21 +597,7 @@
 </channel>
  
  
- <channel>       
-<title><![CDATA[Tiempos de guerra T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/tiempos-de-guerra_6nj4bbyuuqa2017-09-20.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Tiempos%20de%20guerra%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
  
- <channel>       
-<title><![CDATA[Todo por el juego T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/todo-por-el-juego_4nqfpafwlez2018-07-23.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/juego.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
  
 
  <channel>       
@@ -862,22 +628,8 @@
  
 
  
- 
-<channel>       
-<title><![CDATA[Westworld]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/westworld-almas-de-metal_0ukzf3wy01r2016-10-02.jpg">Dos invitados a un parque de atracciones de alta tecnologÃ­a entran en una aventura salvaje por el Oeste. El parque estÃ¡ poblado por robots y estÃ¡ diseÃ±ado como simulaciÃ³n que parece 100% real de la Ã©poca romana, los tiempos de los vaqueros, y la Ã©poca medieval. Cuando el ordenador central del parque se estropea, los robots comienzan a correr furiosamente y los dos invitados son acechados por un pistolero robot.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Westworld.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
-<channel>       
-<title><![CDATA[Z Nation T4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/z-nation_mhvcw3qlf5v2016-03-24.jpg">  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/znation.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
 
  <channel>       
