@@ -108,7 +108,13 @@
 </channel>
  
  
-
+<channel>      
+<title><![CDATA[ Chicago fire]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://i.picasion.com/pic88/941dc8b54426f7b76b527df2b6647037.gif" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/chicagofire.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
  
