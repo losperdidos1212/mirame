@@ -388,6 +388,22 @@
  
 
  
+  <channel>       
+<title><![CDATA[La peste T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/laverdad.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  <channel>      
