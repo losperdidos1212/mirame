@@ -653,7 +653,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
+<channel>       
+<title><![CDATA[Vivir sin permiso T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/vivir_sin_permiso_tv_series-545657173-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/vivir.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
 
