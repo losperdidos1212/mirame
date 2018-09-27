@@ -228,6 +228,17 @@
 </channel> 
  
  
+  <channel>       
+<title><![CDATA[ El tirador T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/2e77a4035789d9f18a9378e36bd0c435.gif">]]>Shooter es una serie dramAtica de televisiOn estadounidense, basada en la novela Point of Impact por Stephen Hunter, y la pelIcula del mismo nombre de 2007. La trama se centra en un tirador estadounidense entrenado en contrainteligencia y en el funcionamiento del gobierno EE. UU.</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/eltirador.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ 
+ 
  
  
  
